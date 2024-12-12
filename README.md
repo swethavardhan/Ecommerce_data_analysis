@@ -2,7 +2,9 @@
 Can access the Dashboard here:
 https://app.powerbi.com/groups/me/dashboards/fb9138fe-64d6-410e-98cf-d028aacfa1c6?ctid=080360ee-84c0-4838-925a-e124e4129a30&pbi_source=linkShare
 ![Dashboard Look](./Dashboard_look.png)
-This project involves the analysis of e-commerce sales data, where I transformed and loaded the data into a MySQL database, performed exploratory data analysis (EDA), and created an interactive dashboard for visual insights using Power BI.
+
+This project involves the analysis of e-commerce sales data, where I transformed and loaded the data into a MySQL database, performed exploratory data analysis (EDA), and created an interactive dashboard for visual insights using Power BI. 
+Key Performance Indicators selected here : Total Revenue, Total Quantity, Average transaction value, Average quantity per transaction
 
 ## Project Overview
 
